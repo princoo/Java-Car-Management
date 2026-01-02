@@ -193,19 +193,4 @@ Use the commands listed in the **CLI Commands** section above to interact with y
 * **Security:** No authentication is required; this is a development demonstration.
 * **Architecture:** The Backend and CLI are separate Java programs but share the same source repository for submission purposes.
 
-## Assignment Compliance
-
-* ✔ Java backend
-* ✔ In-memory storage
-* ✔ REST-style API
-* ✔ Servlet-based implementation
-* ✔ Standalone Java CLI
-* ✔ HTTP communication
-* ✔ No frameworks (Spring, Hibernate)
-
----
-
-**Author**
-Ineza Prince
-
 ```
